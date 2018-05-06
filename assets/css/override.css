@@ -1,11 +1,32 @@
+
+
+
+
+/* jumbotron classes */
+
 .jt-image {
-    background-image: url('../images/TBProfile2.jpg');
+    background-image: url('../images/bg.jpg');
     background-size: cover;
     width: 100%
 }
+
+.lighttext {
+    color: azure;
+}
+
+hr {
+   border-top: azure .5px solid 
+}
+
 
 footer {
     bottom: 0;
     width: 100%;
     position: absolute;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
 }
