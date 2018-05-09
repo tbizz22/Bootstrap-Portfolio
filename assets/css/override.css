@@ -22,6 +22,7 @@ hr {
 }
 
 
+/* inline image paragraph */
    
 .span4 img {
     margin-right: 10px;
@@ -32,3 +33,14 @@ hr {
 .span4 .img-right {
     float: right;
 }
+
+opacity {
+    background-color: transparent;
+    opacity: .45;
+}
+
+.footer {
+    position:fixed;
+    bottom: 0;
+}
+
