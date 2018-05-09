@@ -44,3 +44,29 @@ opacity {
     bottom: 0;
 }
 
+.portfolio {
+    float: left;
+    margin:10px;
+    padding: 10px;
+}
+
+.portfolio-image {
+    height: 300px;
+    width: 300px;
+}
+
+.portfolio-label {
+    position: relative;
+    height: 40px;
+    width: 300px;
+    background-color:#686b6bad;
+    bottom: 60px;
+    left: 0;
+    text-align: center;
+    vertical-align: center;
+    color:white;
+    font-size:25px;
+    line-height: 40px;
+    overflow: auto;
+}
+
