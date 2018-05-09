@@ -1,7 +1,3 @@
-
-
-
-
 /* jumbotron classes */
 
 .jt-image {
@@ -19,14 +15,11 @@ hr {
 }
 
 
-footer {
-    bottom: 0;
-    width: 100%;
-    position: absolute;
-}
-
 .btn-default {
     color: #333;
     background-color: #e6e6e6;
     border-color: #adadad;
 }
+
+
+   
